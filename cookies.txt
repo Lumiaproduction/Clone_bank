@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+alepay.nganluong.vn	TRUE	/	FALSE	1999999999	advanced-checkout	58r0c26n3rgj1vrbdp4uu2aqbf
+alepay.nganluong.vn	TRUE	/	FALSE	1999999999	_language	ee00851c23482dd67aad3e47f7d35079e08245c6ed2815237f60199572e4da53a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_language%22%3Bi%3A1%3Bs%3A2%3A%22vi%22%3B%7D
+alepay.nganluong.vn	TRUE	/	FALSE	1999999999	_csrf-checkout	260758e8609a6f1e108c2ae005c401e726189d82dedeaecf0d57370881c54761a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_csrf-checkout%22%3Bi%3A1%3Bs%3A32%3A%223BsYyOxbkyBfWYLZko80j3CTvmtL4oJs%22%3B%7D
+
